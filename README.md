@@ -5,11 +5,15 @@ This website is a basic design with the intent to tell a little bit about myself
 ## Author Information
 
 Author: Justin Rehrig
+
 Email: Justin.Rehrig@outlook.com
+
 [Twitter](twitter.com/brutzii)
+
 [LinkedIn](linkedin.com/justinrehrig)
 
 ## Special Thanks
 
 Thinkful
+
 Paul G
