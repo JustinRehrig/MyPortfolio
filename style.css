@@ -96,3 +96,8 @@ ul {
   text-align: center;
   list-style-position: inside;
 }
+
+.wrapper {
+	width: 75%;
+	margin: auto;
+}
